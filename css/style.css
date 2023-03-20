@@ -538,7 +538,8 @@ button {
   height: 40px;
   padding-left: 18px;
   font-size: 13px;
-  color: #8f8f8f; }
+  #color: #8f8f8f;
+  color: #EEC400;   }
 .form-contact .different-control {
   min-height: 140px; }
 
